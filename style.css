@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Poetsen+One&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Archivo+Black&family=Poetsen+One&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+*{
+    font-family: "Poppins", sans-serif;
+    font-weight: 300px;
+    font-style: normal;
+    box-sizing: border-box;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: url(img/Japanese\ Samurai\ Wallpaper\ Laptop.jpg) ;
+    background-size: cover;
+    background-position: center;
+}
+
+h1{
+    font-family: "Archivo Black", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.wrapper{
+    width: 80vh;
+    padding: 40px;
+    margin: 50px 0px ;
+    border-radius: 25px;
+    color: #ffff;
+    background: transparent;
+    border: 2px solid rgba(225, 225, 225, .2);
+    backdrop-filter: blur(20px);
+    box-shadow: 0 0 10px rgba(0, 0, 0, .2);
+}
+
+.form-control{
+    background: transparent;
+}
+
+button{
+    background-color: aqua;
+}
+
