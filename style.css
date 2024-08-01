@@ -40,7 +40,7 @@ h1{
     background: transparent;
 }
 
-button{
-    background-color: aqua;
+button .botom{
+    background-image: linear-gradient(red, blue );
 }
 

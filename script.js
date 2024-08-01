@@ -1,4 +1,4 @@
-alert(`welcome di pendaftaran sekolah SMKN 1 PURWOSARI`);
+// alert(`welcome di pendaftaran sekolah SMKN 1 PURWOSARI`);
 
 function validasi() {
             var nama = document.forms["formku"]["nama"].value;
