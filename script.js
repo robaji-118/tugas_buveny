@@ -29,5 +29,6 @@ function validasi() {
         alert("Email anda sudah benar");
     }
 
+    
     return true;
 }
