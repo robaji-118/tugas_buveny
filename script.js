@@ -26,9 +26,9 @@ function validasi() {
         document.getElementById("email").focus();
         return false;
     } else {
-        alert("Email anda sudah benar");
+        alert("Pendaftaran berhasil");
     }
 
-    
+
     return true;
 }
