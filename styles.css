@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Archivo+Black&family=Platypi:ital,wght@0,300..800;1,300..800&family=Poetsen+One&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poetsen+One&display=swap');
+
+* {
+
+    font-family: "Poppins", sans-serif;
+        font-weight: 700px;
+        font-style: normal;
+}
+
+nav{
+    background-color: #131f2f;
+    
+}
+
+body{
+    background-color: #000000;
+}
+
+/* corousel */
+.smk{
+    opacity: 0.4;
+}
+
+.cp-cr{
+    margin-bottom: 300px;
+}
+
+/* Kejuruan*/
+.judul{
+    margin-top: 70px;
+    margin-bottom: 30px;
+    color: #808080;
+}
+
+
+
+/* footer */
+.footer{
+    background-color: #131f2f;
+    margin-top: 70px;
+    padding-bottom: 50px;
+}
+
+.footer .cp-footer{
+    color: #efefef;
+    margin-top: 40px;
+}
+
+.cp-footer1{
+    color: #efefef;
+    margin-top: 100px;
+}
